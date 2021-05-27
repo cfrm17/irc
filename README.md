@@ -73,5 +73,9 @@ Z_BBB^D , Z_BBB^CCC, Z_BBB^B, Z_BBB^BB, z_BBB^BBB, Z_BBB^A, Z_BBB^AA, Z_BBB^AAA
 	IRC = 99.9% quantile of the 1-year loss distribution
 
 
-You can find more details at
+References:
+
 https://finpricing.com/lib/FxVolIntroduction.html
+
+https://bitbucket.org/cfrm17/irc/downloads/irc-9.pdf
+
